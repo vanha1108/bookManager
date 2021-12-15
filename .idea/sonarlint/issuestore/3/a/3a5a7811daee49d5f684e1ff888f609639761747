@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ûıç‚şÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ïıüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(°´ÈŠüÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¹î´—
+Z
+java:S1854_"8Remove this useless assignment to local variable "file".(€§¶‚üÿÿÿÿ8ÎƒªĞÛ/
+K
+java:S1481_")Remove this unused "file" local variable.(€§¶‚üÿÿÿÿ8ĞƒªĞÛ/
+X	java:S125d"<This block of commented-out lines of code should be removed.(ñì–8ÑƒªĞÛ/
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îò¿ïúÿÿÿÿ
+{
+java:S1319'"eThe type of "books" should be an interface such as "List" rather than the implementation "ArrayList".(´­Š
+E
+java:S1604J"(Make this anonymous inner class a lambda(÷Íšê8±÷¤ĞÛ/
+T
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(Ã¹ôˆ
+[
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(Ù¯‹°8ÖƒªĞÛ/
+W
+java:S49734"<Strings and Boxed types should be compared using "equals()".(³ö–ƒüÿÿÿÿ
+n
+java:S2095a"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(à«ó¾şÿÿÿÿ8çƒªĞÛ/

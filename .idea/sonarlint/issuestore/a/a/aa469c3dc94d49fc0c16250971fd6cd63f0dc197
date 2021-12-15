@@ -1,0 +1,36 @@
+
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(üö®¿úÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ïöıËıÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(’²ÿ­ûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(˜êˆ¾
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ïıüÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(…µŞ¶
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ëâÅÍ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(÷‘‡†ùÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(…µŞ¶
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ÜßÔë
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(°»¢­ùÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(¾÷è
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(÷‘‡†ùÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(…µŞ¶
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ÜßÔë
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(°»¢­ùÿÿÿÿ
+M	java:S106y"9Replace this use of System.out or System.err by a logger.(æ»÷
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(Ñ¬ªùÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ø˜ÂØıÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(á³ú‰ùÿÿÿÿ
+N	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ä‡Îl
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(Èß€ûÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ö„Äâûÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(¾Á
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¦¯›ç
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ÑÁ„š
+f
+java:S1192L"PDefine a constant instead of duplicating this literal "Enter book id: " 3 times.(…µŞ¶
+`
+java:S1155C">Use isEmpty() to check whether the collection is empty or not.(áì»÷ıÿÿÿÿ8üßĞÛ/
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
